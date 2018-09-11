@@ -1,0 +1,14 @@
+C:\Users\jenni\sql\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.deps.json
+C:\Users\jenni\sql\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.runtimeconfig.json
+C:\Users\jenni\sql\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.runtimeconfig.dev.json
+C:\Users\jenni\sql\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.dll
+C:\Users\jenni\sql\StudentExercises\bin\Debug\netcoreapp2.1\StudentExercises.pdb
+C:\Users\jenni\sql\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.csprojAssemblyReference.cache
+C:\Users\jenni\sql\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.csproj.CoreCompileInputs.cache
+C:\Users\jenni\sql\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.RazorAssemblyInfo.cache
+C:\Users\jenni\sql\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.RazorAssemblyInfo.cs
+C:\Users\jenni\sql\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.AssemblyInfoInputs.cache
+C:\Users\jenni\sql\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.AssemblyInfo.cs
+C:\Users\jenni\sql\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.RazorTargetAssemblyInfo.cache
+C:\Users\jenni\sql\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.dll
+C:\Users\jenni\sql\StudentExercises\obj\Debug\netcoreapp2.1\StudentExercises.pdb
